@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4DFBC7D3-1F06-47A4-96F3-907F9A640774}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="0516/test0506.cs">
+    <Files>
+      <File FileName="0516/EmptyClass.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="0516" expanded="True">
+            <Node name="0516" expanded="True">
+              <Node name="test0506.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.0516 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

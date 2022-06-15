@@ -1,0 +1,15 @@
+/Users/hyeon/0516/0516/bin/Debug/net5.0/0516.deps.json
+/Users/hyeon/0516/0516/bin/Debug/net5.0/0516.runtimeconfig.json
+/Users/hyeon/0516/0516/bin/Debug/net5.0/0516.runtimeconfig.dev.json
+/Users/hyeon/0516/0516/bin/Debug/net5.0/0516.dll
+/Users/hyeon/0516/0516/bin/Debug/net5.0/ref/0516.dll
+/Users/hyeon/0516/0516/bin/Debug/net5.0/0516.pdb
+/Users/hyeon/0516/0516/obj/Debug/net5.0/0516.csproj.AssemblyReference.cache
+/Users/hyeon/0516/0516/obj/Debug/net5.0/0516.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyeon/0516/0516/obj/Debug/net5.0/0516.AssemblyInfoInputs.cache
+/Users/hyeon/0516/0516/obj/Debug/net5.0/0516.AssemblyInfo.cs
+/Users/hyeon/0516/0516/obj/Debug/net5.0/0516.csproj.CoreCompileInputs.cache
+/Users/hyeon/0516/0516/obj/Debug/net5.0/0516.dll
+/Users/hyeon/0516/0516/obj/Debug/net5.0/ref/0516.dll
+/Users/hyeon/0516/0516/obj/Debug/net5.0/0516.pdb
+/Users/hyeon/0516/0516/obj/Debug/net5.0/0516.genruntimeconfig.cache
